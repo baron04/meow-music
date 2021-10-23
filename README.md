@@ -1,6 +1,8 @@
-- forked from (https://github.com/Umbrella001/wx-yunyinyue)，有修改
+- forked from (https://github.com/Umbrella001/wx-yunyinyue)  有修改
 - 后端由项目 https://github.com/Binaryify/NeteaseCloudMusicApi私有部署而来，通过 `docker run -d -p 8007:3000 binaryify/netease_cloud_music_api` 命令目录部署在自己的服务器，接口 url 为 https://musicapi.rscl.cc
 - [自己整理的小程序开发经验](./docs/1.md)
+
+下面是原作者文档
 
 # ♬ 原生小程序云开发 ---- 仿网易云音乐 + 博客 ♪
 
